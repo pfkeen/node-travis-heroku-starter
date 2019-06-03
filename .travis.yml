@@ -20,5 +20,5 @@ script:
 
 deploy:
   provider: heroku
-  api_key: "travis-ci.org"
+  api_key: "0421987e-5a13-47f5-bf64-575a8cdc2065"
   app: felixtestapp2019
